@@ -62,4 +62,8 @@
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
+},
+{
+    "name": "eva03033",
+    "address": "https://eva03033.onrender.com"
 }
